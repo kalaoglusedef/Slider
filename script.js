@@ -19,9 +19,14 @@ var models = [
     image: "img/bmw.jpg",
     link: "http://www.arabalar.com.tr/bmw/4-serisi/2021/430i-coupe-2-0-m-sport",
   },
+  {
+    name: " Volkswagen Tiguan 1.5",
+    image: "img/vw-tiguan.jpg",
+    link: "http://www.arabalar.com.tr/volkswagen/tiguan/2022/1-5-elegance",
+  },
 ];
 
-var index = 0;
+var index = 1;
 var slaytCount = models.length;
 var interval;
 var settings = {
